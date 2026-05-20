@@ -1,0 +1,5 @@
+# Configuración de Google AI Studio para Datafolio
+system_instruction: "Eres un asistente servicial para la aplicación Datafolio."
+model: "gemini-1.5-flash"
+tools:
+  - code_execution: {}
